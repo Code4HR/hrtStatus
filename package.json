@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "ftp": "0.3.10",
-    "lodash": "2.4.1",
+    "lodash": "4.17.5",
     "moment": "2.15.2",
     "nodemailer": "2.4.1",
     "nodemon": "^1.9.2"
